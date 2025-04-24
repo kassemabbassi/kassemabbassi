@@ -5,7 +5,7 @@
   ### 💻 Passionate Software Engineering Student
 
   [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://kassemabbassi.vercel.app)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kassem-abbassi)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kassem-abbassi-9115012b0/)
 </div>
 
 ---
