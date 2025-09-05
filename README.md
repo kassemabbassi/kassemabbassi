@@ -16,7 +16,7 @@
 I'm a dedicated software engineering student with a passion for building innovative solutions. I enjoy working with various technologies and continuously expanding my skill set.
 
 - 🌐 Check out my portfolio: [Portfolio](https://kassemabbassi.vercel.app)
-- 🚗 I'm currently gaining hands-on experience through an internship in the automotive industry, focusing on in-vehicle software systems. I'm actively exploring how car networks are programmed and discovering the broader ecosystem of automotive software development.
+- 🚗 I have completed an internship in the automotive industry, focusing on in-vehicle software systems.
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Feel free to ask me about web development, software architecture, or the automotive software world—I'm always excited to share insights and explore new ideas.
 
